@@ -23,7 +23,11 @@ CREATE TABLE shops (
 ```
 
 ### Ejecutar en:
+- Eclipse: 2019-12-R 
+  https://www.eclipse.org/downloads/packages/release/2019-12/r
 
-- Apache Tomcat: 8.x, 9.x  - https://www.oracle.com/middleware/technologies/weblogic-server-installers-downloads.html
-- Oracle WebLogic: 12.2.x - https://archive.apache.org/dist/tomcat/
-...
+- Apache Tomcat: 8.x, 9.x  
+  https://www.oracle.com/middleware/technologies/weblogic-server-installers-downloads.html
+
+- Oracle WebLogic: 12.2.x 
+  https://archive.apache.org/dist/tomcat/
