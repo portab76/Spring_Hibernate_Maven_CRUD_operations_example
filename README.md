@@ -1,4 +1,4 @@
-# Example of Spring Hibernate Maven JPA CRUD application. 
+## Example of Spring Hibernate Maven JPA CRUD application. 
 
 ### Versiones pom.xml
 ```
