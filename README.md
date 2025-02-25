@@ -2,13 +2,13 @@
 
 ### Versiones pom.xml
 ```
-- **Java:** 8
-- **Spring Framework:** 4.3.30.RELEASE
-- **Spring Data JPA:** 1.11.23.RELEASE
-- **Hibernate:** 5.4.33.Final
-- **MySQL Connector:** 5.1.25
-- **JSTL:** 1.2
-- **Servlet API:** 3.0.1
+- Java: jdk 1.8
+- Spring Framework: 4.3.30.RELEASE
+- Spring Data JPA: 1.11.23.RELEASE
+- Hibernate: 5.4.33.Final
+- MySQL Connector: 5.1.25
+- JSTL: 1.2
+- Servlet API: 3.0.1
 ```
 
 ### Configurar la base de datos
